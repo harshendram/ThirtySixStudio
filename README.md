@@ -21,6 +21,11 @@ This is a clone of the ThirtysixStudio website, created to showcase my skills an
 - **Interactive 3D Elements**: When the text "ThirtysixStudio" is clicked, dynamic 3D effects pop up, which are triggered by the random switching of 2D images. The transition is smooth and engaging, making for a visually interactive experience.
 - **Canvas-based Rendering**: All images used in the animations are linked in the `canvas.js` file and rendered dynamically using a `<canvas>` element. These images are extracted from the original ThirtysixStudio website.
 - **Custom Animations**: Using GSAP, the 2D images are animated to create 3D effects, giving a unique experience each time the text is clicked.
+
+## Purpose
+
+This project was created for learning purposes and to showcase my skills in web development. By cloning the ThirtysixStudio website and adding my own interactive effects, I was able to explore and implement new technologies such as GSAP, Locomotive Scroll, and React with Tailwind CSS.
+
   
 ## How to Run the Project
 
@@ -45,10 +50,6 @@ This is a clone of the ThirtysixStudio website, created to showcase my skills an
     ```
 
 5. Open your browser and go to `http://localhost:5173` to see the project in action.
-
-## Purpose
-
-This project was created for learning purposes and to showcase my skills in web development. By cloning the ThirtysixStudio website and adding my own interactive effects, I was able to explore and implement new technologies such as GSAP, Locomotive Scroll, and React with Tailwind CSS.
 
 ---
 
