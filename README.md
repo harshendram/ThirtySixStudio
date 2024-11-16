@@ -1,6 +1,6 @@
 # ThirtysixStudio Clone
 
-![Preview](link_to_your_preview_image.png)
+![Preview](https://github.com/harshendram/ThirtySixStudio/blob/main/36.png)
 
 This is a clone of the ThirtysixStudio website, created to showcase my skills and for learning purposes. The main feature of this project is the interactive experience triggered when the text "ThirtysixStudio" is clicked. Upon clicking, 3D elements and effects pop up on the screen, with the transition created by randomly changing 2D images.
 
